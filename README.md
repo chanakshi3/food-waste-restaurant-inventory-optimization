@@ -58,8 +58,7 @@ This project analyzes restaurant food waste and inventory data to identify waste
 
 This project demonstrates how Python-based data analysis and Power BI dashboards can help restaurants understand food waste, manage inventory more effectively, and make informed operational decisions.
 
-## dashboard
-https://github.com/chanakshi3/food-waste-restaurant-inventory-optimization/blob/6cc80f394458b4f8fde6271eb30964245feabd3c/images/dashboard.png
+
 ## Dashboard Preview
 
 ![Food Waste Dashboard](images/dashboard.png)
